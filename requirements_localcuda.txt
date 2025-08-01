@@ -1,0 +1,2 @@
+-r base_requirements.txt
+jax[cuda12_local]==0.4.30
