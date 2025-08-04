@@ -5,6 +5,8 @@ preparation, hyper-parameter tuning, training and evaluation for three baseline 
 (one-class SVM, Isolation Forest, Autoencoder) as well as two tensor network models (matrix product
 state and tree tensor network).
 
+[![DOI](https://zenodo.org/badge/1030363812.svg)](https://doi.org/10.5281/zenodo.16738076)
+
 ## Requirements
 
 To install the requirements for this repository run either of the three commands below:
